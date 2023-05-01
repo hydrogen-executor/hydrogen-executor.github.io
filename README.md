@@ -1,3 +1,6 @@
+<link rel="shortcut icon" type="image/png" 
+      href="{{ "https://github.com/hydrogen-executor/hydrogen-executor.github.io/blob/main/Hydrogen-Executor-Logo.png?raw=true"  | absolute_url }}">
+
 ## Hydrogen: The Ultimate Script Executor for Roblox
 
 Hydrogen is a robust and reliable script executor for the popular gaming platform, Roblox. It allows users to run custom scripts and execute various commands in the game, making it an essential tool for anyone looking to enhance their gaming experience.
