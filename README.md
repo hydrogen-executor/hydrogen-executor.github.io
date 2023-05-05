@@ -1,3 +1,5 @@
+<meta name="msvalidate.01" content="EC06EEE5B37F6EF11F911512FD1ACA69" />
+
 <link rel="shortcut icon" type="image/png" 
       href="{{ "https://github.com/hydrogen-executor/hydrogen-executor.github.io/blob/main/Hydrogen-Executor-Logo.png?raw=true"  | absolute_url }}">
 
